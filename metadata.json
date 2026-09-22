@@ -1,0 +1,6 @@
+{
+  "name": "Onwrd Sports",
+  "description": "High-performance endurance training platform with mathematical VDOT and Run Less Run Faster plan generators, Garmin & Strava telemetry (steps, calories, HR zones, elevation GAP), gadget sync, user authentication, and UPI payment gateway for India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
